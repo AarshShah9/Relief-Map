@@ -3,23 +3,32 @@ Global crises lack visibility, limiting individual action and corporate impact i
 
 [Dev Post](https://devpost.com/software/relief-map)
 
-## App Screenshots
+## App Screenshots + Tech Stack
+![7](https://github.com/user-attachments/assets/5d1e2cc9-2059-47a7-885d-6baf61b67ff1)
 ![img-1](https://github.com/user-attachments/assets/f906d747-091b-4287-b48b-9faaf830a43b)
 ![img-2](https://github.com/user-attachments/assets/3ca34e4e-f23f-433c-8a6a-d5c22d5ce309)
 
-
 ## Pitch
+<!--
 ![1](https://github.com/user-attachments/assets/c1e558a2-bc84-487a-aebd-9a51068fa2c7)
+-->
 ![Relief Map  pdf](https://github.com/user-attachments/assets/68f932f5-0bea-4dc5-a5b5-95201608f6b7)
+<!--
 ![3](https://github.com/user-attachments/assets/dededfe6-aa75-4486-968b-5bfe10775d36)
+-->
 ![4](https://github.com/user-attachments/assets/c3391835-6a3c-4802-94c1-9795b800d779)
+<!--
 ![5](https://github.com/user-attachments/assets/b7378ed0-9649-4d48-8952-3bc13cfe2e47)
+-->
 ![6](https://github.com/user-attachments/assets/70f4b8e4-6a4d-4a70-b6a2-aaa30b981d4d)
-![7](https://github.com/user-attachments/assets/5d1e2cc9-2059-47a7-885d-6baf61b67ff1)
+<!--
 ![8](https://github.com/user-attachments/assets/36be5850-6b8f-451a-a8eb-d92ad0631912)
 ![9](https://github.com/user-attachments/assets/08a0f06d-0d9c-4a36-a6aa-c5d4f63eaae0)
 ![10](https://github.com/user-attachments/assets/236ed178-d29c-42eb-9c2b-1b9e69ef66e9)
 ![11](https://github.com/user-attachments/assets/dc80bc69-d9e5-41f9-9474-014794640e29)
+-->
+
+
 
 
 # Our Project
